@@ -5,7 +5,7 @@
 Install the package using [Composer](https://getcomposer.org/):
 
 ```bash
-composer require vishal/json-handler
+composer require vishalshakya/json-handler
 ```
 
 ## Requirements
