@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use VishalShakya\JsonHandler;
+use Vishalshakya\JsonHandler;
 
 class JsonHandlerTest extends TestCase
 {
