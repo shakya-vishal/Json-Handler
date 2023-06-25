@@ -18,7 +18,7 @@ composer require vishalshakya/json-handler
 To use the `JsonHandler` class, make sure to import it into your PHP file:
 
 ```php
-use VishalShakya\JsonHandler;
+use Vishalshakya\JsonHandler;
 ```
 
 ### Encoding Data

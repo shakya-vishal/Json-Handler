@@ -1,6 +1,6 @@
 <?php
 
-namespace VishalShakya;
+namespace Vishalshakya;
 
 use JsonException;
 
